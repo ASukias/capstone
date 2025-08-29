@@ -1,0 +1,4 @@
+OPENAI_API_KEY=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
+
+# HuggingFace token
+HUGGINGFACEHUB_API_TOKEN=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
