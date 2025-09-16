@@ -129,7 +129,7 @@ HUGGINGFACE_API_TOKEN=your_huggingface_api_token
 
 Please open issues or pull requests for bugs, features, or documentation requests.
 
-Contact Ara Sukiyan via email at asukiasy@gmail.com for project-related questions or support.
+Contact Ara Sukiasyan via email at asukiasy@gmail.com for project-related questions or support.
 
 ---
 
